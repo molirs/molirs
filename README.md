@@ -3,12 +3,13 @@
 ## A Continuación os cuento un poco sobre mi
 ---
 - En el curso 18/19 empezé Ingeniería mecánica y la dejé con 126 créditos en tercero por que me dí cuenta de que prefería el mundo de la informática tras unos años de descontento en el grado.
-- En el curso 23/24 terminé el grado de DAM en Zaragoza.
+- En el curso 22/23 empeze y en el 23/24 terminé el grado de DAM en Zaragoza.
 - Actualmente estoy realizando un curso de especialización en AI y Big Data en el Campus Digital de Zaragoza.
 - Soy deportista y me encanta la competición tanto en el deporte tradicional como en videojuegos.
 - Tengo conocimientos avanzados de Java y SQL.
 - He desarrollado un videojuego en Unreal Engine 5 y por lo cual tengo conocimientos de Blueprints.
 - Tengo conocimentos básicos en C++ y C#.
+- Soy un aficionado al Hardware de dispositvos de sobremesa y he diseñado la build de más de 5 ordenadores para familiares y amigos.
 <!--
 **molirs/molirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
