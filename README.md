@@ -1,5 +1,14 @@
-## Hi there 👋
-
+# Hola, soy Miguel Molina y en internet se me conoce como -> molirs
+---
+## A Continuación os cuento un poco sobre mi
+---
+- En el curso 18/19 empezé Ingeniería mecánica y la dejé con 126 créditos en tercero por que me dí cuenta de que prefería el mundo de la informática tras unos años de descontento en el grado.
+- En el curso 23/24 terminé el grado de DAM en Zaragoza.
+- Actualmente estoy realizando un curso de especialización en AI y Big Data en el Campus Digital de Zaragoza.
+- Soy deportista y me encanta la competición tanto en el deporte tradicional como en videojuegos.
+- Tengo conocimientos avanzados de Java y SQL.
+- He desarrollado un videojuego en Unreal Engine 5 y por lo cual tengo conocimientos de Blueprints.
+- Tengo conocimentos básicos en C++ y C#.
 <!--
 **molirs/molirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
